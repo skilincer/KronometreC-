@@ -1,0 +1,10 @@
+C:\Users\Windows'10\source\repos\KronometreC\KronometreC\obj\Debug\KronometreC.csprojAssemblyReference.cache
+C:\Users\Windows'10\source\repos\KronometreC\KronometreC\obj\Debug\KronometreC.Form1.resources
+C:\Users\Windows'10\source\repos\KronometreC\KronometreC\obj\Debug\KronometreC.Properties.Resources.resources
+C:\Users\Windows'10\source\repos\KronometreC\KronometreC\obj\Debug\KronometreC.csproj.GenerateResource.cache
+C:\Users\Windows'10\source\repos\KronometreC\KronometreC\obj\Debug\KronometreC.csproj.CoreCompileInputs.cache
+C:\Users\Windows'10\source\repos\KronometreC\KronometreC\bin\Debug\KronometreC.exe.config
+C:\Users\Windows'10\source\repos\KronometreC\KronometreC\bin\Debug\KronometreC.exe
+C:\Users\Windows'10\source\repos\KronometreC\KronometreC\bin\Debug\KronometreC.pdb
+C:\Users\Windows'10\source\repos\KronometreC\KronometreC\obj\Debug\KronometreC.exe
+C:\Users\Windows'10\source\repos\KronometreC\KronometreC\obj\Debug\KronometreC.pdb
